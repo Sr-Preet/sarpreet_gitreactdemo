@@ -1,0 +1,6 @@
+The React App captures the user’s name through an input field. When the user enter's his/her name, the entered name is stored using the useState hook. The stored name is then displayed below the input.
+
+Key points:
+The useState hook manages the name state.
+The handleNameChange function updates the state when the user types in the input field.
+The name is displayed if it a non-empty string.
